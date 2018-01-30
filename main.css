@@ -50,3 +50,20 @@ body{
   }
 }
 
+footer nav{
+  text-align: center;
+  margin: auto;
+  padding: 2rem;
+}
+
+nav a{
+  text-decoration: none;
+  color:crimson;
+  font-size: 1.3rem;
+  font-family: 'Anton', sans-serif;
+}
+
+a:hover{
+  color:blue;
+  transition: color .2sec ease-in-out;
+}
